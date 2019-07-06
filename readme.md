@@ -1,5 +1,1 @@
-忽略文件有
-/.idea
-/.vscode
-/.git
-/js
+忽略文件.gitignore
